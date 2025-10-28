@@ -6,7 +6,7 @@
 - 금요일부터 밤을 샜읍!니다!
 
 ## 예제 코드
-''' javascrip
+''' javascript
 fuction setup() {
   createCanvas(100, 100);
 }
