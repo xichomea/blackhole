@@ -4,7 +4,7 @@
 - **박나연** xichomea@gmail.com
 - https://metakits.cc
 - 금요일부터 밤을 샜읍!니다!
-- whffudy
+- 졸려요
 
 ## 예제 코드
 ``` javascript
