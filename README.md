@@ -7,11 +7,11 @@
 - whffudy
 
 ## 예제 코드
-''' javascrip
+``` javascript
 fuction setup() {
   createCanvas(100, 100);
 }
 
 funtion draw() {
   background(200);
-'''
+```
